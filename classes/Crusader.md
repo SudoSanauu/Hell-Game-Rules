@@ -24,7 +24,7 @@ HP: 21 (+10/lvl)
 +lvl   : Combat, Evangelizing  
 +lvl/2 : Theology, Tactics
 
-### Traits:  
+### Traits
 #### Stubborn ● ● ○ ○ ○  
 The Crusader is someone who rarely compromises or changes their mind. This character is the sort of person who would stand up for whats they believe in against an army or refuse to admit that they were wrong even when presented with overwhelming evidence.  
 ● – Can check to avoid having mind changed or to ignore new developments.
