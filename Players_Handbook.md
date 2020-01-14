@@ -65,13 +65,13 @@ Finally every character comes with a unique power which defines something only t
 
 ### ii. Character Examples
 #### a. Lord
-The Lord was once a passionate leader who cared deeply for their domain, and ruled over it as best they could. Eventually this was used against them and they were manipulated into making terrible decisions which eventually led to not only their demise, but also that of their subjects.  
-The Lord's power it to be able to gain the trust of others and to act as their leader. The Lord must balance the power they can wield against their Underlings loyalty and desires.  
-Play the Lord if you want to be responsible for forming, holding together, and wielding the power of the most powerful alliance in Hell.  
+The Lord was once a passionate leader who cared deeply for their domain and ruled over it as best they could. Eventually this was used against them, and they were manipulated into making terrible decisions which eventually led to not only their demise, but also that of their subjects.   
+The Lord's power is to be able to gain the trust of others and to act as their leader. The Lord must balance their strength against their Underling's loyalty and desires.  
+Play the Lord if you want to be responsible for forming, holding together, and wielding the power of the most powerful alliance in Hell.   
 +lvl   : Ruling, Combat  
 +lvl/2 : Oration, Strategy  
 Traits: Rash ● ● ○ ○ ○	Responsible ● ○ ○ ○ ○  
-Examples: Edelgard von Hresvelg from FE:3H, Most GoT Characters, the Player from Kind of Dragon Pass
+Examples: Edelgard von Hresvelg from FE:3H, Most GoT Characters, the Player from King of Dragon Pass
 
 #### b. Crusader
 The Crusader was a staunch defender and champion of the weak, sticking up for those who needed sticking up for. They made their life into a quest against injustice and devoted themselves to good. As time went on their quest stopped leading them to combat evil and instead brought them into conflict with innocents. Eventually their actions against those innocents left them ostracized by the community they used to stand for, which led to their demise.
