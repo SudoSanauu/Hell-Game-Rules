@@ -32,7 +32,7 @@ The Fake is driven person, who is not squeamish about doing what needs to be don
 The Fake is someone who does not stress about things they don't have control over. This character is the sort of person who would keep their calm inside a burning building or easily become comfortable in situations with abhorrent conditions for themselves and others.  
 ● – Can check to inspire nonchalant-ness in an otherwise hectic situation.
 
-### Alternate Identities:\
+### Alternate Identities
 As the Fake you have the ability to create and switch between Identities, which each gain a measure of reality in Hell. As these Identities develop and become a part events in Hell, they will become more and less real, and even take on lives of themselves.  
 This is represented by a Realness stat, which each different Identity will have. In general, a Realness of 100 or greater means that the entity is understood by Hell and exists fully within it, while Identities with less Realness may just be fake characters. For a general guideline, Identities with less than 30 Realness don't really raise any questions when encountered, but also don't leave an impression, while others will have heard a story from a friend of a friend about Identities with Realness in the 40's to 50's. Once realness gets above that the Identities start making stories for themselves and having material effects on the world. If an Identity ever gets to 100 or more realness it is undeniably an entity in the world who exists. If this is the Fake's Main Identity (Identity with the most Realness) this just means that this identity is "responsible" for the actions the Fake takes when not inhabiting another Identity. If its not the Main Identity, then it also truly exists in Hell, independent of the Fake or any of their other Identities.
 
@@ -43,6 +43,6 @@ Switching Identities requires the Fake to have about a minute in a relatively pr
 
 
 
-### Philosophical BS:
+### Philosophical BS
 The power of the Fake comes from their understanding that the ultimate function of something is more important than how that function comes about. Nine times out of ten, reality deals with black boxes whose content is unimportant. By knowing and understanding this, the Fake has the power to change the outside of a box without bothering with the inner workings, and so has the power to manipulate how they are perceived and function in the shallow world of Hell.
 

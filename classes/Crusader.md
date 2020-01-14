@@ -83,6 +83,6 @@ The Crusader does not start with any Pledges or Oaths even though they do start 
 Just as Oaths and Pledges can be made, they can be likewise abandoned. This happens in the exact same way as gaining them, in a moment of quiet contemplation or a loud proclamation. They can also be lost if the Crusader fails to live up to them. In the event that the Crusader takes an action which clearly shows that they are not holding themselves to their own Oaths or shows Hell that they are not holding themselves to their Pledges they will loose that Oath/Pledge and the Power/Defense which goes along with it. In addition, since their faith in themselves or Hell's faith in them has been likewise shattered they temporarily loose all of their other Powers or Defenses respectively. These will remain unavailable and can't be used till the Crusader makes a change in their Traits/Adjectives (respectively). If the same action causes a loss of Oath/Pledge and Trait/Adjective it doesn't count for this. 
 
 
-### Philosophical BS:
+### Philosophical BS
 The power of the Crusader comes from their belief and representation of an idea. Instead of trying to understand many frameworks and thoughts, the Crusader takes one and becomes the master of it, applying its reality to all facets of the world. This single minded determination bends reality to fit into their understanding, and gives the Crusader dominion over their singular interpretation.
 
