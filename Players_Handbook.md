@@ -1,7 +1,9 @@
 # The Hell Game
 
 ## Intro
-The Hell game will be a Role Playing Game created, by me, you, and everyone else who is joining us. It will be an experience (hopefully) somewhere between hideous torture and exuberant fantasy. Together we will (hopefully) talk to otherworldly terrors and simple relatable people, explore a world in which there are no shackles of morality to hold you down since everyone gets their just desserts, and explore a plane of meaningless existence where everything has a purpose.
+The Hell Game is a Role Playing Game I've been working on for a few years that I'd like to play with your if you're reading this. I originally wrote some self indulgent nonsense here, but suffice to say if you know me you probably have an idea what it will be like: fun absurdities at some times, self serious nonsense in others. On the fun side its a silly game where you'll get to run around fighting devils and make stupid jokes with friends. On the more serious side I'd like to make a game which makes some commentary on our world, our games, and maybe even changes the way that we engage with and think about our table top experiences. If you want to read what I wrote before, here it is for posterity's sake:
+
+>It will be an experience (hopefully) somewhere between hideous torture and exuberant fantasy. Together we will (hopefully) talk to otherworldly terrors and simple relatable people, explore a world in which there are no shackles of morality to hold you down since everyone gets their just desserts, and explore a plane of meaningless existence where everything has a purpose.
 
 Below are the rules of a game about a group of people who wake up on the First Layer of Hell and delve their way down to the Ninth. I tried to write a new system stealing ideas from everything I like including AD&D, OSR, 5e, modern indie RPG's, and anything else which got in the way at the time. After reading this broad overview I hope to have given you some knowledge of how to play the game and an idea of if you would like to play.
 
