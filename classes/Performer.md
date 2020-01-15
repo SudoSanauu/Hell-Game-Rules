@@ -5,9 +5,7 @@ The Performer was once a successful artist who, upon reaching the top became cor
 
 As the Performer, you can determine the reality of Hell. You can create places to go or things to find, changing the game everyone is playing.
 
-Play the Performer if you want to forge your own reality and make the game you're playing yours.
-
-With the Performer, you are able to rewrite the world allowing yourself the most freedom. However, you also have to figure out what changes you want yourself and Hell to go through for yourself.
+With the Performer, you are able to rewrite the world allowing yourself the most freedom. However, you also have to figure out what changes you want for yourself and Hell instead of following a predetermined path.
 
 Examples: Like any of the horrible artists you hear about on this godforsaken planet. everyone is problematic. everyone is canceled.
 
