@@ -1,11 +1,9 @@
 # The Priest
 
 ### Description
-The Priest was once a respected healer and thinker in their community, but they let this go to their head and became corrupt in their position. Their ego and indulgences eventually caught up with them and caused them to fail their community and, ultimately, led to their demise.
+The Priest was once a respected healer and thinker in their community, but they let it go to their head and became corrupt in their position. Their ego and indulgences eventually caught up with them and caused them to fail their community and, ultimately, led to their demise.  
 
-As the Priest, you can find and define what is true and meaningful in Hell. By specifying a set of truths you can control what miracles you have access to and to what you will be held accountable to.
-
-Play the Priest if you want to explore what is and isn't true for you in Hell, and gain power from you findings.
+As the Priest, you can find and define what is true and meaningful in Hell. By specifying a set of beliefs you can control what miracles you have access to and to what you will be held accountable to.  
 
 With the Priest, easy. However, hard.
 
