@@ -5,7 +5,7 @@ The Priest was once a respected healer and thinker in their community, but they 
 
 As the Priest, you can find and define what is true and meaningful in Hell. By specifying a set of beliefs you can control what miracles you have access to and to what you will be held accountable to.  
 
-With the Priest, easy. However, hard.
+With the Priest, you have access to a huge number of powerful Miracles which you get to define and choose for yourself. However, you also have a partial responsibility to come up with them while also creating and following an appropriate ideology.
 
 Examples: Dr. Strange, Jordan Peterson
 
