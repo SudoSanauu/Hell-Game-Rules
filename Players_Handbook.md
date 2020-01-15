@@ -120,8 +120,8 @@ Examples: Elric of Melniboné from Moorcock's Books, Talion from SoM, Guldan fro
 
 #### g. Thief
 The Thief stole with from whomever they desired with not a care in the world, spending weeks and going days without rest to take well earned prizes from their victims. This eventually all came crashing down when they acquired knowledge they shouldn't have, and brought about their own demise.  
-The Thief's power is to steal not only physical objects, but also the have access to take form the Material, Mind, and Mouth of anything or one encountered in Hell.  
-Play the Thief if you want to have a finger in everything else's things, knowledge, and relationships, and be able to take them for yourself.  
+The Thief's power is to steal not only physical objects, but also the have access to take from the Material, Mind, and Mouth of anything or one encountered in Hell.  
+Play the Thief if you want to have a finger in everything else's stuff, knowledge, and relationships, and be able to take them for yourself.  
 +lvl   : Subterfuge, Discretion  
 +lvl/2 : Finance, Science  
 Traits: Obsessed ● ● ○ ○ ○	Inquisitive ● ○ ○ ○ ○  
@@ -129,11 +129,11 @@ Examples: Cugel the Clever from Vance's Dying Earth
 
 #### h. Fake
 The Fake was once a member of an oppressed group who became someone else in order to escape their tormentors. They committed heinous acts in order to keep their cover until, eventually, their died after living their life as a lie.  
-As the Fake you are able to take on disguises and personalities in Hell. Each of these can become more or less real, perhaps even eclipsing you in the eyes of everyone else.  
+As the Fake you are able to take on new disguises and personalities in Hell. Each of these can become more or less real, perhaps even eclipsing you in the eyes of everyone else.  
 Play the Fake if you want to create and cultivate personalities to solve problems while trying to figure out what makes you you in the process.  
 +lvl   : Murder, Subterfuge  
 +lvl/2 : Combat, Revelry  
-Traits: Ruthless ● ● ○ ○ ○	Comfortable ● ○ ○ ○ ○  
+Traits: Ruthless ● ● ○ ○ ○	Chill ● ○ ○ ○ ○  
 Examples: Bash from GLOW, Captain Klenzendorf from Jojo Rabbit
 
 #### i. Performer

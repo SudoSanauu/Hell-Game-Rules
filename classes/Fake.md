@@ -1,13 +1,11 @@
 # The Fake
 
 ### Description
-The Fake was once a member of an oppressed group who became someone else in order to escape their tormentors. They committed heinous acts in order to keep their cover until, eventually, their died after living their life as a lie.
+The Fake was once a member of an oppressed group who became someone else in order to escape their tormentors. They committed heinous acts in order to keep their cover until, eventually, their died after living their life as a lie.  
 
 As the Fake you are able to take on disguises and personalities in Hell. Each of these can become more or less real, perhaps even eclipsing you in the eyes of everyone else.
 
-Play the Fake if you want to create and cultivate personalities to solve problems while trying to figure out what makes you you in the process.
-
-With the Fake, easy. However, hard.
+With the Fake, you are able to create new identities to allow yourself whatever pretenses and abilities are convenient to yourself in any situation. However, though you may have access to many more identities each one has no distinct advantages to make them more powerful than what one could normally do.
 
 ### Stats
 Str: 14  

@@ -3,11 +3,9 @@
 ### Description
 The Thief stole with from whomever they desired with not a care in the world, spending weeks and going days without rest to take well earned prizes from their victims. This eventually all came crashing down when they acquired knowledge they shouldn't have, and brought about their own demise.
 
-The Thief's power is to steal not only physical objects, but also the have access to take form the Material, Mind, and Mouth of anything or one encountered in Hell.
+The Thief's power is to steal not only physical objects, but also the have access to take from the Material, Mind, and Mouth of anything or one encountered in Hell.  
 
-Play the Thief if you want to have a finger in everything else's things, knowledge, and relationships, and be able to take them for yourself.
-
-With the Thief, you are never at a dead end and can gain something more with just a little risk and clever use of your powers. However, all this requires keeping and organizing what you know about the other members of Hell along with what you have taken from them.
+With the Thief, you are never at a dead end and can gain something more with just a little risk and clever use of your powers. However, all this requires keeping in mind and organizing what you know about the other members of Hell along with what you have taken from them.
 
 Examples: Cugel the Clever from Vance's Dying Earth
 
