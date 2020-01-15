@@ -3,13 +3,11 @@
 ### Description
 The Rebel was once an outcast in their community. On the edges of society, they found an organization to belong to which gave them what they needed. They used the knowledge they gained to set up their revenge on the community, which led to the downfall of themselves and everyone else involved.
 
-As the Rebel, you get your power from both your relationships with those you left behind and those you joined in Hell. You start with contacts in the real world and in Hell who you can exchange favors with for spells and powers.
+As the Rebel, you get your power from both your relationships with those you left behind and those you joined in Hell. You start with contacts in the real world and in Hell who you can exchange favors with for power.  
 
-Play the Rebel if you are interested in wheeling and dealing with the powers of Hell and unfortunate souls back on Earth in exchange for power.
+With the Rebel, you are able to play the great game, make trades and deals, and play with the denizens of Hell better than anyone. However, everything you can do relies on having other people to work with.
 
-With the Rebel, you have to most contacts with the powers of Hell and can regain spells and advance your interests just by wheeling and dealing. However, everything you can do relies on having other people to work with.
-
-Examples: idk, like a communist spy or leader of a cult/splinter cell of a cult
+Examples: Jojo Betzler (if things went significantly worse) from Jojo Rabbit, almost any character from The Spire: City Must Fall  
 
 ### Stats
 Str: 8  
