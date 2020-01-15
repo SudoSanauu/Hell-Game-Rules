@@ -3,7 +3,7 @@
 ### Description
 The Genius was a respected and distinguished leader in their field, who was working on an awesome and terrible project for their organization until an outside force came and threatened the Genius, forcing them to be their agent and work against the original organization. Eventually, the Genius' betrayal was discovered, and brought about their demise.  
 
-The Genius's power is to prepare terrible and powerful spells which they can unleash to great effect. Any number of spells can be prepared or learned, the only limitation is the Genius' time, resources, and desire to do so.  
+The Genius's power is to prepare terrible and powerful Spells which they can unleash to great effect. Any number of Spells can be prepared or learned, the only limitation is the Genius' time, resources, and desire to do so.  
 
 With the Genius, you have access to the widest variety of the most potent rituals, and can learn any of them your character wants to. However, your magical abilities rely on the resources available to you, and failure to manage them well could leave you with many problems.
 

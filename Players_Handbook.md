@@ -102,7 +102,7 @@ Examples: Jojo Betzler (if things went significantly worse) from Jojo Rabbit, al
 
 #### e. Genius
 The Genius was a respected and distinguished leader in their field, who was working on an awesome and terrible project for their organization until an outside force came and threatened the Genius, forcing them to be their agent and work against the original organization. Eventually, the Genius' betrayal was discovered, and brought about their demise.  
-The Genius's power is to prepare terrible and powerful spells which they can unleash to great effect. Any number of spells can be prepared or learned, the only limitation is the Genius' time, resources, and desire to do so.  
+The Genius's power is to prepare terrible and powerful Spells which they can unleash to great effect. Any number of Spells can be prepared or learned, the only limitation is the Genius' time, resources, and desire to do so.  
 Play the Genius if you want to create plans and manage resources to wield the most powerful magics and overcome the largest obstacles.  
 +lvl   : Engineering, Math  
 +lvl/2 : Science, Subterfuge  
@@ -110,9 +110,9 @@ Traits: Cowardly ● ● ○ ○ ○	Ingenious ● ○ ○ ○ ○
 Examples: Walter White from Breaking Bad, Rhialto the Marvelous from Vance's Dying Earth, Elon Musk from The Horror Which is Real Life  
 
 #### f. Villain
-The Villain was a scourge on the land, spreading their dark power into all the cracks and crevices of the world. Eventually they got their hands on a captive who even the Villain couldn't bring themselves to kill, and eventually let go free. The release of the prisoner was the Villain's one redeeming act, and it brought about their demise.  
+The Villain was a scourge upon the land, spreading their dark power into all the cracks and crevices of their world. Eventually they got their hands on a captive who even the Villain couldn't bring themselves to kill, and instead they let their captive go free. The release of the prisoner was the Villain's one redeeming act, and it brought about their demise.  
 The Villain's power is to invoke powerful Sorceries core to their being without relying on any outside objects, ideologies, or relationships.  
-Play the Villain if you want to wield terrible forces inherent to you, which no one else can have any effect on.  
+Play the Villain if you want to wield your own arsenal of terrible forces which don't rely on others.  
 +lvl   : Intimidation, Scheming  
 +lvl/2 : Philosophy, Authority  
 Traits: Distant ● ● ○ ○ ○	Thoughtful ● ○ ○ ○ ○  

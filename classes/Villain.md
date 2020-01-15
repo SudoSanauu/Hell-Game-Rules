@@ -1,13 +1,11 @@
 # The Villain
 
 ### Description
-The Villain was a scourge on the land, spreading their dark power into all the cracks and crevices of the world. Eventually they got their hands on a captive who even the Villain couldn't bring themselves to kill, and eventually let go free. The release of the prisoner was the Villain's one redeeming act, and it brought about their demise.
+The Villain was a scourge upon the land, spreading their dark power into all the cracks and crevices of their world. Eventually they got their hands on a captive who even the Villain couldn't bring themselves to kill, and instead they let their captive go free. The release of the prisoner was the Villain's one redeeming act, and it brought about their demise.  
 
-The Villain's power is to invoke powerful Sorceries core to their being without relying on any outside objects, ideologies, or relationships.
+The Villain's power is to invoke powerful Sorceries core to their being without relying on any outside objects, ideologies, or relationships.  
 
-Play the Villain if you want to wield terrible forces inherent to you, which no one else can have any effect on.
-
-With the Villain, you can create an island with completely customizable powers which rely only on themselves. However, this power relies on managing their carefully constructed personal and public identity.
+With the Villain, you can create an island with completely customizable powers without worrying about others and outside forces. However, this power relies on managing your carefully constructed personal and public identity.
 
 Examples: Elric of Melniboné from Moorcock's Books, Talion from SoM, Guldan from Warcraft, Hubert von Vestra from FE:3H
 
