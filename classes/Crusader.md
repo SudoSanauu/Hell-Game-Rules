@@ -1,11 +1,9 @@
 # The Crusader
 
 ### Description
-The Crusader was a staunch defender and champion of the weak, sticking up for those who needed sticking up for. They made their life into a quest against injustice and devoted themselves to good. As time went on their quest stopped leading them to combat evil and instead brought them into conflict with innocents. Eventually their actions against innocents left them ostracized by the community they used to stand for, which led to their demise.
+The Crusader was a staunch defender and champion of the weak, sticking up for those who needed sticking up for. They made their life into a quest against injustice and devoted themselves to good. As time went on their quest stopped leading them to combat evil and instead brought them into conflict with innocents. Eventually their actions against innocents left them ostracized by the community they used to stand for, which led to their demise.  
 
-The Crusader's power is to declare Oaths to themselves which grant them tremendous abilities as long as they are upheld and Pledges to Hell which grant protections as long as they serve as a proper symbol.
-
-Play the Crusader if you want to become the ultimate champion of a cause by holding yourself to a personal code and managing your public perception.
+The Crusader's power is to declare Oaths and Pledges which which grant them tremendous abilities and power protections as long as they act as they swore they would.  
 
 With the Crusader, you can craft yourself some of the most powerful abilities in the game. However, you will constantly have to manage your personal and public image to keep your access to those powers.
 

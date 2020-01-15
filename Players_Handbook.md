@@ -74,8 +74,8 @@ Traits: Rash ● ● ○ ○ ○	Responsible ● ○ ○ ○ ○
 Examples: Edelgard von Hresvelg from FE:3H, Most GoT Characters, the Player from King of Dragon Pass
 
 #### b. Crusader
-The Crusader was a staunch defender and champion of the weak, sticking up for those who needed sticking up for. They made their life into a quest against injustice and devoted themselves to good. As time went on their quest stopped leading them to combat evil and instead brought them into conflict with innocents. Eventually their actions against those innocents left them ostracized by the community they used to stand for, which led to their demise.
-The Crusader's power is to declare Oaths to themselves which grant them tremendous abilities as long as they are upheld and Pledges to Hell which grant protections as long as they serve as a proper symbol.  
+The Crusader was a staunch defender and champion of the weak, sticking up for those who needed help. They made their life into a quest against injustice and devoted themselves to good. As time went on their quest stopped leading them to combat evil and instead brought them into conflict with innocents. Eventually their actions against those innocents left them ostracized by the community they used to stand for, which led to their demise.  
+The Crusader's power is to declare Oaths and Pledges which which grant them tremendous abilities and power protections as long as they act as they swore they would.  
 Play the Crusader if you want to become the ultimate champion of a cause by holding yourself to a personal code and managing your public perception.  
 +lvl   : Combat, Evangelizing  
 +lvl/2 : Theology, Tactics  

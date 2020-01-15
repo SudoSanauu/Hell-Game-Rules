@@ -2,6 +2,7 @@
 
 ### Description
 The Lord was once a passionate leader who cared deeply for their domain and ruled over it as best they could. Eventually this was used against them, and they were manipulated into making terrible decisions which eventually led to not only their demise, but also that of their subjects.  
+
 The Lord's power is to be able to gain the trust of others and to act as their leader. The Lord must balance their strength against their Underling's loyalty and desires.  
 
 With the Lord, you can lead and work with any of the denizens of Hell, gaining their expertise and power as your own. However, in order to keep it you have to manage conflicting groups with conflicting interests whose priorities can be opposite yours.  
