@@ -10,12 +10,12 @@ With the Villain, you can create an island with completely customizable powers w
 Examples: Elric of Melniboné from Moorcock's Books, Talion from SoM, Guldan from Warcraft, Hubert von Vestra from FE:3H
 
 ### Stats
-Str: 10  
-Int: 16  
-Wis: 17  
-Dex: 11  
-Con: 13  
-Chr: 8  
+Str: 10 (+0)  
+Int: 16 (+3)  
+Wis: 17 (+3)  
+Dex: 11 (+0)  
+Con: 13 (+2)  
+Chr: 8  (-1)  
 
 HP: 18 (+5/lvl)
 
@@ -24,8 +24,8 @@ HP: 18 (+5/lvl)
 
 ### Traits
 #### Distant ● ● ○ ○ ○
-The Villain is a solitary person who relies solely on themselves whenever possible. This character is the sort of person who would feel comfortable living alone in a cabin in the woods for 5 years or would feel no remorse eating a pet when stuck on a desert island.  
-● – Can check to avoid a reaction to any circumstance while putting on sun glasses and walking into the sunset.  
+The Villain is a solitary person who relies solely on themselves whenever possible. This character is the sort of person who would feel comfortable living alone in a cabin in the woods for five years or would feel no remorse eating a pet when stuck on a desert island.  
+● – Can check to avoid a reaction to any circumstance while putting on sun glasses and walking away.  
 ● ● – Can posit a question and receive an "objective" and "rational" answer which doesn't rely on or include the emotions or "subjective" aspects which may go along with the answer.
 
 #### Thoughtful ● ○ ○ ○ ○
@@ -33,21 +33,21 @@ The Villain is a pensive person, who thinks deeply about ideas which are importa
 ● – Can check to ask others to contribute to the character's internal monologue when pondering.
 
 ### Sorcery
-As the Villain, your personal brand of magic comes simply and naturally to you. Wielding these powers is intrinsic to your own personal view of yourself, much as writing is to a writer, drawing to a drawer, or dancing to a dancer. For this reason, your sorcery requires no preparation before hand, no long arduous rituals, and no complicated wheeling and dealing; it can simply be done.  
-The magical actions available to the Villain are known as Sorceries. These use the magic reserves of the Villain, known as Mana. At any given time, the Villain can hold a number of Mana points equal to lvl x 5, and can only spend up to lvl x 3 on any given Sorcery. Spending Mana equal or less than the Villain's level on a Sorcery is considered "casual" expenditure, which provides some benefits detailed below.  
+As the Villain, your personal brand of magic comes simply and naturally to you. Wielding these powers is intrinsic to your own personal view of yourself, much as writing is to a writer, drawing to a drawer, or dancing to a dancer. For this reason, your sorcery requires no preparation before hand, no long arduous rituals, and no complicated wheeling and dealing; it can just be done.  
+The magical actions available to the Villain are known as Sorceries. These use the magic reserves of the Villain, called Mana. The Villain can hold a Mana equal to their level times 5, and can only spend up to their level times 3 on any given Sorcery. Spending Mana equal or less than the Villain's level on a Sorcery is considered "casual" expenditure, which provides some benefits detailed below.  
 
-The Sorceries available to the Villain stem from their perception of who they truly are, defined in Hell as their Traits. For each Rank of each Trait, the Villain gains another Sorcery which they can use, meaning as they gain a clearer image of themselves, they also gain a clearer image of what they can do. The first Sorcery gained from any Trait will always provide a way for the Villain to gain Mana, with the subsequent Sorceries providing impressive effects which can be used to spend it.  
-Each Sorcery is defined rather simply, with only the mechanical effects below. This is not because the flavor of each of these Sorceries isn't important, but because the exact nature of the Villain's power is intended to be defined and fleshed out by the player instead. It is important for the Villain to have some description for how their power operated both when they were alive, and now that they are damned in Hell. This could be the destructive psychological manipulation of others using dark and terrible techniques, an inherited family power to breech the walls between worlds and call upon demons to do your bidding, or something else way cooler. Each Sorcery should then be adjusted to fit with the overall flavor. The Animate Defeated Sorcery could be the Villain whispering dark threats to the downed creature stupefying it into a mindless zombie who follows orders, it could be tempting ravenous demons with the corpse of the fallen and then cajoling them to stick around, or it could be something way cooler than either of those. This may partially change the nature of how precisely the Sorceries work, and thats fine.  
+The Sorceries available to the Villain stem from their perception of who they truly are, defined in Hell as their Traits. For each Rank of each Trait, the Villain gains another Sorcery which they can use. This means that as they gain a clearer image of themselves, they also gain a clearer image of what they can do. The first Sorcery gained from any Trait will always provide a way for the Villain to gain Mana, with the subsequent Sorceries providing impressive effects which can be used to spend it.  
+Each Sorcery is defined rather simply, with only the mechanical effects below. This is not because the flavor of each of these Sorceries isn't important, but because the exact nature of the Villain's power is intended to be defined and fleshed out by the player instead. It is important for the Villain to have some description for how their power operated both when they were alive, and now that they are damned in Hell. This could be the destructive psychological manipulation of others using dark and terrible techniques, an inherited family power to breech the walls between worlds and call upon demons to do your bidding, or something else even cooler. Each Sorcery should then be adjusted to fit with the overall flavor. The Animate Defeated Sorcery could be the Villain whispering dark threats to the downed creature stupefying it into a mindless zombie who follows orders, it could be tempting ravenous demons with the corpse of the fallen and then cajoling them to stick around, or it could be something way cooler than either of those. This may partially change the nature of how precisely the Sorceries work, and thats fine.  
 
 The Villain's Adjectives can also change how their Sorceries manifest over time. On the surface, Sorceries will change their aesthetics to match the Villain's Adjectives. More interestingly, each new rank will bring with it a new way to change each Sorcery. For the first rank of the Adjective, this is always an opportunity to use a Sorcery without spending Mana if the use aligns with the Adjective and the Mana spent is at or below Casual usage. Past this first modifier, a new one is unlocked at each new Adjective rank with the exact modification determined by the Adjective in question.  
 
 #### Reminder Values
 
-| Type                       | Value   |
-| -------------------------- | ------- |
-| Max Mana Pool              | lvl x 5 |
-| Max Mana per Sorcery       | lvl x 3 |
-| Max Mana on Casual Sorcery | lvl     |
+| Type                       | Value    |
+| -------------------------- | -------- |
+| Max Mana Pool              | lvl \* 5 |
+| Max Mana per Sorcery       | lvl \* 3 |
+| Max Mana on Casual Sorcery | lvl      |
 
 ### Starting Powers
 __Basic/Universal__  
@@ -65,5 +65,5 @@ _Meditation_ – May enter a meditative state which allows for reduced outside e
 
 
 
-### Philosophical BS
-The power of the Villain comes from their belief that they are special; that they are the chosen one who can on their own cause great changes to the world. The Villain believes that they are above others, they are unique amongst sameness, they are a wolf among sheep. This power means that the Villain are able to put themselves above others and do things which the "plebeians" can not.
+### Source of Power
+The power of the Villain comes from their belief that they are special; that they are the chosen one who can on their own cause great changes to the world. The Villain believes that they are above others, they are unique amongst sameness, they are a wolf among sheep. This power means that the Villain is able to put themselves above others and do things which the "plebeians" can not.
