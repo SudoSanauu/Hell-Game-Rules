@@ -3,11 +3,7 @@
 This is my compilation of the rules I'm planning on using for the running of the Hell Game. By having them in a public place which also tracks the changes which are made I'm trying to be more transparent and hold myself accountable to recording and noting updates. These updates will be versioned with if its pre/post release, which layer its written on/what major update number, which update it is, and the date (x.x.x_dd-mm-yyyy).
 
 
-Currently the Players Handbook is where I want it to be for Session 0, and is a good place to start reading. The classes are still being worked on, but each one has its basic outline and ideas down if you want to get an idea what they are, but exact wordings will probably change.
-
-
-
-
+Currently the "Players Handbook" and each of the classes are where I want them to be for Session 0. Starting with the PH and moving on to classes which interest you is how I would suggest going about reading these. Current goal to finish by today (Friday) is to write up generic questions for all characters, individual questions for each class, and also to flesh out the Priest's spells and give all the spells some proof reading. Also Stats are messed up because I did them before  I knew I'd be using 3rd ed. bonuses, so I may want to change those...
 
 
 ## Change Log
