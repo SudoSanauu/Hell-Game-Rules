@@ -19,7 +19,7 @@ What did your character desire while they were alive? Did they achieve it? How d
 
 How did your character die? What actions did they take which led up to their death?
 
-In Hell progress is most often made by working with others. What does your character bring to those they work with? What do they expect from those they who they work with?
+In Hell progress is most often made by working with others. What does your character bring to those they work with? What do they expect from those who they work with?
 
 Its said that in Hell the only way to cause any change or achieve your desires is to make it to the bottom of the 9th Layer. What does your character desire or want to change? What do they hope to achieve by traveling to the 9th Layer?
 
@@ -114,7 +114,7 @@ How did all of this eventually lead to your character's demise? Did the events b
 ### Villain
 What position did your character hold which led everyone to think of them as an evil villain? How did they end up in this position?
 
-What were some of th evil things that your character did with their life? Who was hurt by these actions?
+What were some of the evil things that your character did with their life? Who was hurt by these actions?
 
 Who was the person or what was the thing which your character couldn't bring themselves to harm? What was it about them that made hurting them impossible?
 

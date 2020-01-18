@@ -1,4 +1,4 @@
-#The Rebel
+# The Rebel
 
 ### Description
 The Rebel was once an outcast in their community. On the edges of society, they found an organization to belong to which gave them what they needed. They used the knowledge they gained to set up their revenge on the community, which led to the downfall of themselves and everyone else involved.
