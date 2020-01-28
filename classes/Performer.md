@@ -7,7 +7,7 @@ As the Performer, you can determine the reality of Hell. You can create places t
 
 With the Performer, you are able to rewrite the world allowing yourself the most freedom. However, you also have to figure out what changes you want for yourself and Hell instead of following a predetermined path.
 
-Examples: Like any of the horrible artists you hear about on this godforsaken planet. everyone is problematic. everyone is canceled.
+Examples: Like any of the horrible artists you hear about on this godforsaken planet. everyone is problematic. everyone is canceled. Bockjack, Horseman, obviously.
 
 ### Stats
 Str: 10 (+0)  
