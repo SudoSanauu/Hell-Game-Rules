@@ -8,7 +8,10 @@ Currently the "Players Handbook" and each of the classes are where I want them t
 
 ## Change Log
 
-### 0.0.0_19-01-2020
+### 0.0.1_26-01-2020
+Change xp needed from 5 to 10. Change a few typos, add example to performer.
 
+
+### 0.0.0_19-01-2020
 Starting version for session 0. Adding as much as I can.
 
